@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="ff.txt" type="PLAIN_TEXT" />
+      <mapping pattern="ff" type="PLAIN_TEXT" />
       <mapping pattern="dd" type="PLAIN_TEXT" />
       <mapping ext="java___jb_old___" type="PLAIN_TEXT" />
     </extensionMap>
